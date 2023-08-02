@@ -8,6 +8,7 @@ import java.util.Arrays;
 //Input:  { 5, 4, 5, 5, 3, 1, 2, 2, 4 }
 //Output: { 5, 5, 5, 4, 4, 3, 1, 2, 2 }
 
+
 public class RearrangeArray {
     public static void main(String[] args) {
         int[] input = {5, 4, 5, 5, 3, 1, 2, 2, 4};
