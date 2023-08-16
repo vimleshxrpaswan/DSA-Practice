@@ -1,3 +1,5 @@
+package problemoftheday;
+
 import java.util.ArrayList;
 import java.util.List;
 

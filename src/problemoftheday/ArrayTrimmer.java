@@ -1,3 +1,4 @@
+package problemoftheday;
 
 public class ArrayTrimmer {
     public static int findMin(int[] arr)

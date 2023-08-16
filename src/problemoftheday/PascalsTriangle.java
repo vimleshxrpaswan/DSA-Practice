@@ -1,4 +1,4 @@
-//Given a non-negative integer n, print the first n rows of Pascal’s triangle.
+package problemoftheday;//Given a non-negative integer n, print the first n rows of Pascal’s triangle.
 //Each number in Pascal’s triangle is constructed by adding the two numbers diagonally above, where blank entries being interpreted as 0. For instance, the first eight rows of Pascal’s triangle are depicted in the diagram below.
 //
 //

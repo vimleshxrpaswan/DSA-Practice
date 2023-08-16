@@ -1,3 +1,5 @@
+package problemoftheday;
+
 import java.util.Arrays;
 
 public class ArraySqnc {

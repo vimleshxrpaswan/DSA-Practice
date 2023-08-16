@@ -1,3 +1,5 @@
+package problemoftheday;
+
 import java.util.Arrays;
 
 //Given an unsorted integer array containing many duplicate elements, rearrange it such that the same element appears together and the relative order of the
