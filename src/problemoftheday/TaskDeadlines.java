@@ -20,6 +20,7 @@ class Job
 }
 
 class TaskAndDeadlineProblem
+
 {
     // Function to schedule jobs to maximize profit
     public static void scheduleJobs(List<Job> jobs, int T)
