@@ -31,4 +31,3 @@ public class EvenlyDivisible {
         System.out.println(countDigit(n));
     }
 }
-

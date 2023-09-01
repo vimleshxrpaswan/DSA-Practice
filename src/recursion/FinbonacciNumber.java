@@ -14,6 +14,7 @@ public class FinbonacciNumber {
         //base condition
         if (n < 2){  // if calling fibo of 1 it will just return 1 and if u're calling fibo of 0 it will return 0
             return n;
+
         }
 
         return fibo(n-1) + fibo(n-2);
