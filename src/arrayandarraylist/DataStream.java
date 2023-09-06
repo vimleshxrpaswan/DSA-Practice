@@ -20,7 +20,6 @@ public class DataStream {
                 countUnchanged++;
             }
         }
-
         // Print the count of unchanged characters
         System.out.println(countUnchanged);
 

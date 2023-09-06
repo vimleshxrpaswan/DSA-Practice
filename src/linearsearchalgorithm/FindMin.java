@@ -1,8 +1,6 @@
 package linearsearchalgorithm;
 
 public class FindMin {
-
-
     static int min(int[] arr){
         if (arr.length==0){
             return -1;
