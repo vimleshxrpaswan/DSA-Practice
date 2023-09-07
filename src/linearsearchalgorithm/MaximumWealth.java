@@ -23,12 +23,6 @@ public class MaximumWealth {
 
         return answer;
     }
-
-
-
-
-
-
     public static void main(String[] args) {
 
     }

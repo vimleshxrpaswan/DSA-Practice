@@ -1,9 +1,6 @@
 package linearsearchalgorithm;
 
 public class PalindromeNumber {
-
-
-
     static boolean isPalindrome(int x){
         int rem, sum=0,temp;
         temp = x;

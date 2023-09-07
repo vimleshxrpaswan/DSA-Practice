@@ -24,7 +24,6 @@ public class RearrangeArray {
         //Counting the frequency of each element in the array
         int[] frequency = new int[n];
         Arrays.fill(frequency, 1); // Initialize all frequencies to 1
-
         for (int i = 0; i < n; i++) {
             for (int j = i + 1; j < n; j++) {
                 if (arr[i] == arr[j]) {
