@@ -12,11 +12,11 @@ import java.util.Arrays;
 public class RotatedAscending {
     public static void main(String[] args) {
         int[] nums = {4, 5, 6, 7, 0, 1, 2};
-        System.out.println((productExceptSelf(nums)));
+        System.out.println((findMin(nums)));
 
     }
 
-    public static int productExceptSelf(int[] nums) {
+    public static int findMin(int[] nums) {
 //        Arrays.sort(nums);
 //        return nums[0];
         int min = 0;
